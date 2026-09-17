@@ -1,0 +1,6 @@
+{
+  "name": "Prompt Game Quiz",
+  "description": "เกมตอบคำถามออนไลน์แบบเรียลไทม์ หัวข้อ Generative AI, Gemini, RTCFC Prompting และ Google AI Studio พร้อมระบบสร้างห้องเล่นสดและแก้ไขชุดคำถาม",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
